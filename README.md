@@ -24,7 +24,7 @@
 |Pragya Diwakar|
 |Chetana Tijare|
 |Nanak Ashok Jaswani|
-|Pragya Diwakar|
+
 
 ##### This reposistory was created to upload all the tasks on Github series which are provided daily by Codewayy.
 
