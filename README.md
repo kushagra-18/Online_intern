@@ -8,9 +8,8 @@
   While many interesting courses are on wayy!!
 
 ### How to join github series?
-```
-Any interested student can easily join the next batch of Github series by joining the Slack-group, the inivitation of the group is shared by admins and members. 
-```
+```Any interested student can easily join the next batch of Github series by joining the Slack-group, the inivitation of the group is shared by admins and members.```
+
 **Codewayy has many members which are selected students from previous batches.**  
 
 | Members |  
