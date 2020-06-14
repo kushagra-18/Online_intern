@@ -5,6 +5,7 @@
   - Gt/Github series
   - Python
   - Web Development
+  
   While many interesting courses are on wayy!!
 
 ### How to join github series?
@@ -14,17 +15,17 @@
 
 | Members |  
 | ------ | 
-| Kushagra Sharma | [plugins/dropbox/README.md][PlDb] |
-| Ridhima | [plugins/github/README.md][PlGh] |
-| Aditi Singh | (https://github.com/absaditi6) |
-| Priya Aggarwal | [plugins/onedrive/README.md][PlOd] |
-| Mudit Gupta | [plugins/medium/README.md][PlMe] |
-| Aditi Nimbarte | [plugins/googleanalytics/README.md][PlGa] |
+| [Kushagra Sharma](https://github.com/kushagra-18) |  |
+| [Ridhima](https://github.com/Ridhima12345) |  |
+| [Aditi Singh](https://github.com/absaditi6) | |
+| [Priya Aggarwal](https://github.com/priya8936) | |
+| [Mudit Gupta](https://github.com/muditgupta68) | |
+| [Aditi Nimbarte](https://github.com/adinimbarte) | |
 |Yashika Mittal|
 |Pragya Diwakar|
 |Chetana Tijare|
 |Nanak Ashok Jaswani|
-
+|[Arup Maji](https://github.com/arupmaji404)|
 
 ##### This reposistory was created to upload all the tasks on Github series which are provided daily by Codewayy.
 
