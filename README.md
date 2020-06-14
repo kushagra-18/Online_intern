@@ -16,7 +16,7 @@
 | ------ | 
 | Kushagra Sharma | [plugins/dropbox/README.md][PlDb] |
 | Ridhima | [plugins/github/README.md][PlGh] |
-| Aditi Singh | [plugins/googledrive/README.md][PlGd] |
+| Aditi Singh | (https://github.com/absaditi6) |
 | Priya Aggarwal | [plugins/onedrive/README.md][PlOd] |
 | Mudit Gupta | [plugins/medium/README.md][PlMe] |
 | Aditi Nimbarte | [plugins/googleanalytics/README.md][PlGa] |
