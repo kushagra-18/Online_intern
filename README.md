@@ -28,7 +28,7 @@
 
 
 
-##### This reposistory was created to upload all the tasks on Github series which are provided daily by Codewayy.
+##### This repo is used to help all the students taking the Git and GitHub Series by Codewayy to make their first contribution
 
 
 
